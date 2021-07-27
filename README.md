@@ -1,4 +1,6 @@
-Hello there👋, I’m Luiz Guilherme or ziuL<br>A student of computer and information engineering focused on learning and improvement
+Hello there👋, I’m Luiz Guilherme or ziuL
+=====
+A student of computer and information engineering focused on learning and improvement
 
 - 🕹 I’m really into games and series in general
 - 🌱 I’m currently learning Python and VHDL
