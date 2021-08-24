@@ -6,7 +6,7 @@ Hello there👋, I’m Luiz Guilherme or ziuL
 - 🌱 I’m currently learning Python and Java
 <div>
   <a href="https://github.com/ziuLGAP">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziuLGAP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziuLGA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziuLGAP&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
