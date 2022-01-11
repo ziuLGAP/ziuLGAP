@@ -3,7 +3,7 @@ Hello there👋, I’m Luiz Guilherme or ziuL
 >A student of computer and information engineering focused on learning and improvement
 
 - 🕹 I’m really into games and series in general
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python, Java, VHDL and SML
 <div>
   <a href="https://github.com/ziuLGAP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziuLGAP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
